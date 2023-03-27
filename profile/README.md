@@ -7,4 +7,7 @@
 #### AWS Account SignUP Video :	 https://www.youtube.com/watch?v=JFwAS_8BZvM
 #### AWS Account SignUP URL :	   https://portal.aws.amazon.com/billing/signup#/start/email
 
--> Also do signup for GitHub
+#### GitHub SingUP URL: https://github.com
+
+#### Lab Query Session - USE THE SAME LINK THAT YOU ARE USING TO JOIN SESSION
+#### Timing : 7PM IST / 9.30AM EST / 2.30PM UK TIME
