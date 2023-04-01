@@ -11,5 +11,48 @@
 
 #### GitHub SingUP URL: https://github.com
 
-#### Lab Query Session - USE THE SAME LINK THAT YOU ARE USING TO JOIN SESSION
-#### Timing : 7PM IST / 9.30AM EST / 2.30PM UK TIME
+#### Lab Query Session - https://learndevopsonline.my.canva.site/lab-help
+
+
+
+
+# Linux Commands
+
+Regular
+-----
+ls 
+rm -r 
+cp -r 
+cd 
+cat 
+grep 
+tail 
+awk 
+vim 
+curl 
+unzip 
+tar 
+
+
+Irregular
+--------
+touch
+mv 
+mkdir 
+pwd 
+head 
+find 
+
+
+Admin:-
+----
+ps -ef 
+useradd 
+su -
+sudo 
+yum install (Configure repos)
+systemctl 
+kill 
+passwd 
+chmod
+chown 
