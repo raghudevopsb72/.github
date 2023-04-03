@@ -13,10 +13,10 @@
 
 #### Lab Query Session - https://learndevopsonline.my.canva.site/lab-help
 
+#### Github Discussion : https://github.com/learndevopsonline/learndevopsonline/discussions/new?category=q-a
 
 
 
-# Linux Commands
 
 Regular
 -----
@@ -56,3 +56,6 @@ kill
 passwd 
 chmod
 chown 
+ip a 
+netstat -lntp 
+telnet (Check whether port is opon or not)
