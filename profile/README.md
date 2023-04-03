@@ -17,7 +17,7 @@
 
 
 
-
+```
 Regular
 -----
 ls 
@@ -59,3 +59,4 @@ chown
 ip a 
 netstat -lntp 
 telnet (Check whether port is opon or not)
+```
