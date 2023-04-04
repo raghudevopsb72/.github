@@ -1,3 +1,6 @@
+## Raise a SPOT quota:  https://learndevopsonline.github.io/learndevopsonline/build/docs/How-Tos/increase-spot-quota
+(Everyone Please do this before next session)
+
 ## How to Make Notes - https://youtu.be/JwqtkS3Qk4k
 
 #### Youtube Videos : https://www.youtube.com/playlist?list=PLLmNg_q93mewZj7MhQv-z2_-4bUblQB2D
