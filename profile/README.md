@@ -1,10 +1,9 @@
-## Raise a SPOT quota:  https://learndevopsonline.github.io/learndevopsonline/build/docs/How-Tos/increase-spot-quota
-(Everyone Please do this before next session)
-
 ## How to Make Notes - https://youtu.be/JwqtkS3Qk4k
 
 #### Youtube Videos : https://www.youtube.com/playlist?list=PLLmNg_q93mewZj7MhQv-z2_-4bUblQB2D
 (Login to YouTube to watch the videos)
+
+#### Documentation Link:  https://learndevopsonline.github.io/learndevopsonline/build/docs/
 
 #### Miro Dashboard : https://miro.com/app/board/uXjVMZ8nDzo=/?share_link_id=892621432939
 #### Slides : https://slides.com/raghuk/devops
