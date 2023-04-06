@@ -1,12 +1,6 @@
-# Launching spot instance and its options.
-```
--> Name -> Choose Spot 
--> devops-practice -> CentOS-8-DevOps-Practice 
--> Choose t3.micro 
--> Choose Procced without Keypair 
--> Network Settintgs -> Choose allow-all security group 
--> Advanced -> Request Spot Instances -> Customize -> Request Type (Persistent) -> Interruption Behaviour (Stop)
-```
+# Upcoming long weekend for Good Friday.
+India Dates: April 8,9,10
+USA Dates: April 7,8,9
 
 ## How to Make Notes - https://youtu.be/JwqtkS3Qk4k
 
