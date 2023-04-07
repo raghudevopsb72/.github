@@ -1,4 +1,4 @@
-# Everyone, Use the link shared in google doc to join the session.
+# Everyone, Use the zoom link shared in google doc to join the session.
 
 # Upcoming long weekend for Good Friday. No session on those dates.
 
