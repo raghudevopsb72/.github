@@ -1,4 +1,5 @@
-# Everyone, Use the zoom link shared in google doc to join the session.
+# Everyone, Use the zoom link shared in google doc to join the session. Drop me an email for any access issues.
+### Email - raghuk.vit@gmail.com
 
 # Upcoming long weekend for Good Friday. No session on those dates.
 
