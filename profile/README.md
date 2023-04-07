@@ -1,3 +1,5 @@
+# Everyone, Use the link shared in google doc to join the session.
+
 # Upcoming long weekend for Good Friday. No session on those dates.
 
 India Dates: April 8,9,10
