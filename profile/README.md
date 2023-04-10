@@ -1,12 +1,6 @@
 # Everyone, Use the zoom link shared in google doc to join the session. Drop me an email for any access issues.
 ### Email - raghuk.vit@gmail.com
 
-# Upcoming long weekend for Good Friday. No session on those dates.
-
-India Dates: April 8,9,10
-
-USA Dates: April 7,8,9
-
 ## How to Make Notes - https://youtu.be/JwqtkS3Qk4k
 
 #### Youtube Videos : https://www.youtube.com/playlist?list=PLLmNg_q93mewZj7MhQv-z2_-4bUblQB2D
