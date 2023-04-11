@@ -1,5 +1,4 @@
-# Everyone, Use the zoom link shared in google doc to join the session. Drop me an email for any access issues.
-### Email - raghuk.vit@gmail.com
+# Add RoboShop Project Improvement Points -  https://tally.so/r/mDqavp
 
 ## How to Make Notes - https://youtu.be/JwqtkS3Qk4k
 
