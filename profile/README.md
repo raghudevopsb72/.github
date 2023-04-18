@@ -16,7 +16,7 @@
 #### GitHub SingUP URL: https://github.com
 
 #### Lab Query Session - https://learndevopsonline.my.canva.site/lab-help
-(Timing is 6.30PM IST)
+(Timings inside the above link)
 
 #### Github Discussion : https://github.com/learndevopsonline/learndevopsonline/discussions/new?category=q-a
 
