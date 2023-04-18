@@ -22,3 +22,4 @@
 
 #### Github Discussion : https://github.com/learndevopsonline/learndevopsonline/discussions/new?category=q-a
 
+# Linux Username & Password : centos / DevOps321
