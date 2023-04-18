@@ -1,5 +1,3 @@
-# Add RoboShop Project Improvement Points -  https://tally.so/r/mDqavp
-
 ## How to Make Notes - https://youtu.be/JwqtkS3Qk4k
 
 #### Youtube Videos : https://www.youtube.com/playlist?list=PLLmNg_q93mewZj7MhQv-z2_-4bUblQB2D
