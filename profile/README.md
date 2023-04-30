@@ -1,6 +1,6 @@
 # We dont have sessions 
-# On  April 28, 29, 30 (India)
-# On April 27, 28, 29 (USA)
+# On  April 28, 29, 30, 01-May (India)
+# On April 27, 28, 29,30 (USA)
 # 
 
 
