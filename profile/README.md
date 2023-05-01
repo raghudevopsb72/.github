@@ -1,10 +1,3 @@
-# We dont have sessions 
-# On  April 28, 29, 30, 01-May (India)
-# On April 27, 28, 29,30 (USA)
-# 
-
-
-## How to Make Notes - https://youtu.be/JwqtkS3Qk4k
 
 #### Youtube Videos : https://www.youtube.com/playlist?list=PLLmNg_q93mewZj7MhQv-z2_-4bUblQB2D
 (Login to YouTube to watch the videos)
@@ -13,6 +6,8 @@
 
 #### Miro Dashboard : https://miro.com/app/board/uXjVMZ8nDzo=/?share_link_id=892621432939
 #### Slides : https://slides.com/raghuk/devops
+
+#### How to Make Notes - https://youtu.be/JwqtkS3Qk4k
 
 #### Killercoda : https://killercoda.com/rkalluru
 
