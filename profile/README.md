@@ -5,11 +5,11 @@ You can watch the videos of the sessions from the following link. This is a Yout
 #### https://www.youtube.com/playlist?list=PLLmNg_q93mewZj7MhQv-z2_-4bUblQB2D
 (Ensure you login to to YouTube with right email address to watch the videos)
 
-#### Lab Query Sessions:
+### Lab Query Sessions:
 Apart from live sessions, Lab query sessions you can attend to clear the doubts you have while practicing the topics in your own lab. 
 This access is lifelong & You can always reach for the problems that you have in work and you ask for approach on the problem you are having.
 
-### https://learndevopsonline.my.canva.site/lab-help
+#### https://learndevopsonline.my.canva.site/lab-help
 (Timings inside the above link)
 
 ### Github Discussion:
