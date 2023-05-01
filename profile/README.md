@@ -1,5 +1,8 @@
 
-#### Youtube Videos : https://www.youtube.com/playlist?list=PLLmNg_q93mewZj7MhQv-z2_-4bUblQB2D
+#### Youtube Videos : 
+You can watch the videos of the sessions from the following link. This is a Youtube Playlist and everyday video will be updated to the same playlist.
+
+#### https://www.youtube.com/playlist?list=PLLmNg_q93mewZj7MhQv-z2_-4bUblQB2D
 (Login to YouTube to watch the videos)
 
 #### Documentation Link: https://learndevopsonline.github.io/learndevopsonline/build/docs/intro/
